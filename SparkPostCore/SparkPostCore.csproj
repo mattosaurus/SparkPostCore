@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>.Net Core port of SparkPost class libary for using REST API.
+https://github.com/darrencauthon/csharp-sparkpost</Description>
+    <PackageProjectUrl>https://github.com/mattosaurus/SparkPostCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mattosaurus/SparkPostCore</RepositoryUrl>
+    <PackageReleaseNotes>Creation.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
