@@ -12,7 +12,7 @@ https://github.com/darrencauthon/csharp-sparkpost</Description>
 
   <ItemGroup>
     <PackageReference Include="Mime" Version="2.3.5" />
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
